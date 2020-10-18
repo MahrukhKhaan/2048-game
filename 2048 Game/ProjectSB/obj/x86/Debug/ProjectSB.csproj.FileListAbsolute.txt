@@ -1,0 +1,28 @@
+c:\users\mdw\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\bin\Debug\ProjectSB.exe
+c:\users\mdw\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\bin\Debug\ProjectSB.pdb
+c:\users\mdw\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.Properties.Resources.resources
+c:\users\mdw\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.csproj.GenerateResource.Cache
+c:\users\mdw\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.exe
+c:\users\mdw\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.pdb
+C:\Users\MDW\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.csprojResolveAssemblyReference.cache
+C:\Users\MDW\Documents\Visual Studio 2010\Projects\ProjectSB\ProjectSB\bin\Debug\ProjectSB.exe.config
+C:\Users\MDW\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.playgame.resources
+C:\Users\MDW\documents\visual studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.ScoreBoard.resources
+C:\Users\MDW\Documents\Visual Studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.AdminAuthentication.resources
+C:\Users\MDW\Documents\Visual Studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.SuccessfulAdminAuthentication.resources
+C:\Users\MDW\Documents\Visual Studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.AskName.resources
+C:\Users\MDW\Documents\Visual Studio 2010\Projects\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.MainMenu.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\bin\Debug\ProjectSB.exe.config
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\bin\Debug\ProjectSB.exe
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\bin\Debug\ProjectSB.pdb
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.csprojAssemblyReference.cache
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.AskName.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.MainMenu.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.ScoreBoard.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.AdminAuthentication.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.SuccessfulAdminAuthentication.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.PlayGame.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.Properties.Resources.resources
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.csproj.GenerateResource.cache
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.exe
+E:\Ayesha\SE\SemPro\ProjectSB\ProjectSB\obj\x86\Debug\ProjectSB.pdb
